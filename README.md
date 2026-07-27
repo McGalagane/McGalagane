@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:120078,100:9b59b6&height=180&section=header&text=McGalagane&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=AI%20%C2%B7%20Neurotech%20%C2%B7%20Software%20Engineering&descAlignY=55&descAlign=62"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:120078,100:9b59b6&height=180&section=header&text=Oscar%20Malandain&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=AI%20%C2%B7%20Neurotech%20%C2%B7%20Software%20Engineering&descAlignY=55&descAlign=62"/>
 
 <!-- Typing animation -->
 <p align="center">
@@ -23,7 +23,7 @@
 ## 👋 About me
 
 ```python
-class McGalagane:
+class OscarMalandain:
     role = "Software Engineer"
     focus = ["Artificial Intelligence", "Neurotechnology", "Systems"]
     school = "Epitech"
@@ -46,7 +46,7 @@ When I'm not coding, I'm probably reading papers, tuning experiments, or automat
 
 ### Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,ts,js,java,bash&perline=8" alt="Languages"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,ts,js,bash&perline=8" alt="Languages"/>
 </p>
 
 ### AI / ML / Data
@@ -100,21 +100,6 @@ When I'm not coding, I'm probably reading papers, tuning experiments, or automat
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/McGalagane/McGalagane/output/github-contribution-grid-snake.svg"/>
   <img alt="Contribution snake eating my commits" src="https://raw.githubusercontent.com/McGalagane/McGalagane/output/github-contribution-grid-snake.svg"/>
 </picture>
-
----
-
-## 🚀 Featured projects
-
-| Project | Description |
-| --- | --- |
-| [**Project Maverick**](https://github.com/McGalagane/Project-Maverick) | AI & neurotech experiments — models, pipelines, and tooling |
-| [**auto-commit**](https://github.com/McGalagane/auto-commit) | Weekday commit automation with randomized AI/neurotech commit messages |
-
-<p align="center">
-  <a href="https://github.com/McGalagane?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20all%20repositories-9b59b6?style=for-the-badge&logo=github&logoColor=white" alt="View all repositories"/>
-  </a>
-</p>
 
 ---
 
