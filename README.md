@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:120078,100:9b59b6&height=180&section=header&text=Oscar%20Malandain&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=AI%20%C2%B7%20Neurotech%20%C2%B7%20Software%20Engineering&descAlignY=55&descAlign=62"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:120078,100:9b59b6&height=180&section=header&text=Oscar%20Malandain&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlign=50&fontAlignY=32&desc=AI%20%C2%B7%20Neurotech%20%C2%B7%20Software%20Engineering&descAlign=50&descAlignY=55"/>
 
 <!-- Typing animation -->
 <p align="center">
@@ -68,27 +68,6 @@ When I'm not coding, I'm probably reading papers, tuning experiments, or automat
 ### Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vscode,githubactions,postman&perline=8" alt="Tools"/>
-</p>
-
----
-
-## 📊 GitHub analytics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=McGalagane&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=9b59b6&icon_color=9b59b6&text_color=c9d1d9" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=McGalagane&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9b59b6&text_color=c9d1d9&langs_count=8" alt="Top languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=McGalagane&theme=tokyonight&hide_border=true&background=0d1117&ring=9b59b6&fire=9b59b6&currStreakLabel=9b59b6" alt="GitHub streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=McGalagane&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub trophies"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=McGalagane&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=9b59b6&line=9b59b6&point=ffffff&area=true&area_color=9b59b6&custom_title=Contribution%20Activity" alt="Activity graph"/>
 </p>
 
 ---
